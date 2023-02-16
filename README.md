@@ -1,6 +1,6 @@
 Esta es una práctica de la materia Herramientas Computacionales para Matemática Aplicada, una optativa de la carrera.
 
-Los enunciados de los ejercicios se pueden leer en "Práctica 3 - Introducción a Phyton y a herramientas de matemática simbólica".
+Los enunciados de los ejercicios se pueden leer en "Práctica 3 - Introducción a Phyton y a herramientas de matemática simbólica".<br>
 Seleccioné sólo algunos ejercicios, los cuales considero que son los de mayor importancia.
 Estos son algunos de los ejercicios resueltos:
 
