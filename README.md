@@ -1,3 +1,4 @@
+# Graficos en Python
 Esta es una práctica de la materia Herramientas Computacionales para Matemática Aplicada, una optativa de la carrera.
 
 Los **enunciados de los ejercicios** se pueden leer en [Práctica 3 - Introducción a Phyton y a herramientas de matemática simbólica](https://github.com/LautaroOchotorena/Graficos-en-Python/blob/main/Pr%C3%A1ctica%203%20-%20Introducci%C3%B3n%20a%20Phyton%20y%20a%20herramientas%20de%20matem%C3%A1tica%20simb%C3%B3lica.pdf).<br>
