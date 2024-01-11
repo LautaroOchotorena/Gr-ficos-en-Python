@@ -12,4 +12,4 @@ El [ejercicio 11](https://github.com/LautaroOchotorena/Graficos-en-Python/blob/m
 El [ejercicio 12](https://github.com/LautaroOchotorena/Graficos-en-Python/blob/main/Ejercicio12.py) son gráficas de diferentes funciones solución de ecuaciones ordinarias de segundo orden según las constantes dadas, el resultado obtenido al ejecutar se puede ver en [gráfica solución segundo orden](https://github.com/LautaroOchotorena/Graficos-en-Python/blob/main/Ejercicio12.png).<br>
 
 **Requerimientos:**<br>
-Python3, matplotlib, numpy, tkinter.
+Python3, Matplotlib, Numpy, Tkinter.
